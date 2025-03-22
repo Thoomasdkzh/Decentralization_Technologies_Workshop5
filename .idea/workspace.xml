@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ab2cebd-cb71-4b99-9acc-74f397181e06" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/nodes/node.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/nodes/node.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,7 +31,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/thoom/Documents/ESILV/S8/Decentralized_Technologies/TD/TD4/Decentralization_Technologies_Workshop4&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/thoom/Documents/ESILV/S8/Containerization_Technologies/Project/Group-4&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -158,6 +159,9 @@
       <workItem from="1742216834749" duration="7776000" />
       <workItem from="1742302846377" duration="1135000" />
       <workItem from="1742304001649" duration="36000" />
+      <workItem from="1742304055166" duration="1195000" />
+      <workItem from="1742373562155" duration="661000" />
+      <workItem from="1742599070958" duration="2738000" />
     </task>
     <servers />
   </component>
